@@ -1,6 +1,6 @@
 # ghost-sae
 
-项目示例如何通过[Sina App Engine](http://www.sinacloud.com/sae.html)和Dockerfile构建一个Ghost博客。
+> 此项目示例如何通过[Sina App Engine](http://www.sinacloud.com/sae.html)和Dockerfile构建一个Ghost博客。
 
 ### 第1步 创建云应用SAE
 
