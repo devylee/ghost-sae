@@ -33,7 +33,7 @@ $ ./run.sh
 
 ### 最后 push代码
 
-`git comit` & `git push`你的代码，如果一切顺利，在push收到成功的信息后，就可以访问你的Ghost了。
+`git commit` & `git push`你的代码，如果一切顺利，在push收到成功的信息后，就可以访问你的Ghost了。
 
 别忘了把你的“共享存储”挂载到Dockerfile中$GHOST_CONTENT所指定的路径上并重启容器。
 
